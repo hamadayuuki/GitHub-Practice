@@ -19,3 +19,6 @@ main git merge feature2
 
 feature2  git merge feature
 こんばんは
+
+change feature
+こんばんは
