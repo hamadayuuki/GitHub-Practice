@@ -7,3 +7,6 @@ git merge
 
 feature2
 こんばんは
+
+git merge feature2
+こんばんは
