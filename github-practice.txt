@@ -22,3 +22,6 @@ feature2  git merge feature
 
 change feature
 こんばんは
+
+change feature4
+こんばんは
